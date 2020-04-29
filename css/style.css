@@ -96,6 +96,11 @@ h1 {
 }
 
 
+.row2 {
+  height: 70px;
+}
+
+
 hr {
   width: 340px;
   opacity: 30%;
@@ -105,7 +110,7 @@ hr {
 .col1 {
   margin-top: 10px;
   margin-left: 20px;
-  margin-right: 20px;
+  margin-right: 25px;
   margin-bottom: 10px;
   font-size: 32px;
   font-weight: 600;
@@ -144,5 +149,17 @@ hr {
   font-weight: 300;
   color: #666666;
   margin-right: 16px;
+  margin-top: 45px;
+}
+
+
+.col5 {
+  float: right;
+  position: absolute;
+  left: 82px;
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  color: #666666;
   margin-top: 45px;
 }
